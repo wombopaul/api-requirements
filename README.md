@@ -2,9 +2,8 @@
 ## Installation & Usage
 <hr/>
 
-```
 After cloning the project, please run this command on the project directory
-```bash
+```
 composer install
 ```
 ### Configure local Environment
@@ -29,7 +28,8 @@ php artisan key:generate
 
 ```
 
-Run migrations and seeders
+### Run migrations and seeders
+
 ```
 php artisan migrate --seed
 ```
