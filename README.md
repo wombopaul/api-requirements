@@ -4,11 +4,11 @@
 
 ```
 After cloning the project, please run this command on the project directory
-```
+```bash
 composer install
 ```
 ### Configure local Environment
-To run the application you must configure the ```.env``` environment file with your database details. Use the following commmand to create .env file. 
+To run the application you must configure the environment file with your database details. Use the following commmand to create .env file. 
 ```
 cp .env.example .env
 
